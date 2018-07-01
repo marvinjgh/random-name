@@ -1,0 +1,19 @@
+{
+  "name": "random-name",
+  "version": "1.0.0",
+  "description": "Proyecto para cosas random (nombre y descripción provisional).",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinjgh/random-name.git"
+  },
+  "author": "@marvinjgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marvinjgh/random-name/issues"
+  },
+  "homepage": "https://github.com/marvinjgh/random-name#readme"
+}
